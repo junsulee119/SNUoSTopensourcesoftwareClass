@@ -2,7 +2,7 @@
 
 ![result](https://recipe1.ezmember.co.kr/cache/recipe/2016/09/06/115b2b934fd77085518877677d1266fa1.jpg)
 
-> Best friend for students living alone! :thumbsup:
+> Best friend for students who living alone! :thumbsup:
 
 ## Ingredients
 

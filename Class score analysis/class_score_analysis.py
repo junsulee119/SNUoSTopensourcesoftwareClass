@@ -15,13 +15,12 @@ def read_data(filename):
 
 def calc_weighted_average(data_2d, weight):
     average = []  # 각 행의 가중평균을 저장할 리스트
-    weight_sum = sum(weight)  # 가중치의 합을 계산
     
     for row in data_2d:  # data_2d의 각 행에 대해 반복
         weighted_sum = 0
         for i in range(len(row)):
             weighted_sum += row[i] * weight[i]  # 각 점수에 가중치를 곱한 값을 더함
-        average.append(weighted_sum / weight_sum)  # 가중합을 가중치의 합으로 나눔
+        average.append(weighted_sum)
     
     return average
 

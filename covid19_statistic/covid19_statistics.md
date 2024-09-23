@@ -21,7 +21,7 @@
 | Jeju | 675883 | 1.3 |
 | Sejong | 365309 | 0.7 |
 
-### Korean COVID-19 new cases by region
+### Korean COVID-19 new cases by Region
 * Total new cases: 1714
 
 | Region | New Cases | Ratio (%) | New Cases / 1M |

@@ -33,7 +33,7 @@ print('')
 
 # TODO) Print COVID-19 new cases by region
 
-print('### Korean COVID-19 new cases by region')
+print('### Korean COVID-19 new cases by Region')
 print('* Total new cases:', sum_covid)
 print()
 print('| Region | New Cases | Ratio (%) | New Cases / 1M |')
